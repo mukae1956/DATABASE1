@@ -1,0 +1,46 @@
+[ {
+  "cId" : 100,
+  "parentId" : 100,
+  "name" : "커피",
+  "sortNumber" : 1
+}, {
+  "cId" : 101,
+  "parentId" : 100,
+  "name" : "아메리카노류",
+  "sortNumber" : 1
+}, {
+  "cId" : 102,
+  "parentId" : 100,
+  "name" : "라떼류",
+  "sortNumber" : 1
+}, {
+  "cId" : 103,
+  "parentId" : 100,
+  "name" : "디카페인",
+  "sortNumber" : 1
+}, {
+  "cId" : 200,
+  "parentId" : null,
+  "name" : "논커피",
+  "sortNumber" : 2
+}, {
+  "cId" : 201,
+  "parentId" : 200,
+  "name" : "라떼류",
+  "sortNumber" : 2
+}, {
+  "cId" : 202,
+  "parentId" : 200,
+  "name" : "주스류",
+  "sortNumber" : 2
+}, {
+  "cId" : 203,
+  "parentId" : 200,
+  "name" : "티",
+  "sortNumber" : 2
+}, {
+  "cId" : 300,
+  "parentId" : null,
+  "name" : "디저트",
+  "sortNumber" : 3
+} ]

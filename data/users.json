@@ -1,0 +1,57 @@
+[ {
+  "uId" : "SJ001",
+  "uName" : "곽소정",
+  "password" : "Ksj0828",
+  "pNumber" : "010-1234-5678",
+  "email" : "siena08@naver.com",
+  "role" : 2,
+  "uStatus" : false
+}, {
+  "uId" : "EY001",
+  "uName" : "양은영",
+  "password" : "Yang1234",
+  "pNumber" : "010-5677-1564",
+  "email" : "yang12@naver.com",
+  "role" : 1,
+  "uStatus" : false
+}, {
+  "uId" : "KL001",
+  "uName" : "강이도은",
+  "password" : "Kang1234",
+  "pNumber" : "010-1234-5678",
+  "email" : "Kang12@naver.com",
+  "role" : 1,
+  "uStatus" : false
+}, {
+  "uId" : "YR001",
+  "uName" : "양록빈",
+  "password" : "Rock1234",
+  "pNumber" : "010-1234-5678",
+  "email" : "Yang45@naver.com",
+  "role" : 1,
+  "uStatus" : false
+}, {
+  "uId" : "NH001",
+  "uName" : "노현주",
+  "password" : "Noh1234",
+  "pNumber" : "010-1234-5678",
+  "email" : "Noh12@naver.com",
+  "role" : 1,
+  "uStatus" : false
+}, {
+  "uId" : "JA001",
+  "uName" : "정아영",
+  "password" : "Jung1234",
+  "pNumber" : "010-1234-5678",
+  "email" : "Jung12@naver.com",
+  "role" : 1,
+  "uStatus" : false
+}, {
+  "uId" : "siena08",
+  "uName" : "최지혜",
+  "password" : "Choi123",
+  "pNumber" : "01011224444",
+  "email" : "jihae@naver.com",
+  "role" : 1,
+  "uStatus" : false
+} ]
